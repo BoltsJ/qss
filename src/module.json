@@ -2,8 +2,15 @@
   "id": "quick-status-select",
   "title": "Quick Status Select",
   "description": "a quick status / effect / condition select module",
-  "authors": [{ "name": "Jeremiah Verba" }, { "name": "Emmi" }],
-  "version": "2.0.0",
+  "authors": [
+    {
+      "name": "Jeremiah Verba"
+    },
+    {
+      "name": "Emmi"
+    }
+  ],
+  "version": "3.1.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
